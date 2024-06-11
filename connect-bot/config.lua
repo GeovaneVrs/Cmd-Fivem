@@ -1,0 +1,2 @@
+Config = {}
+Config.Token = "TESTE"
